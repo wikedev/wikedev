@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey👋! , I'm Wike. Web developer 
 
 <!--
 **wikedev/wikedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
